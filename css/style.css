@@ -1,0 +1,33 @@
+.container{
+    margin: 20px;
+    background-color:rgb(212, 234, 180);
+    border: 1px solid rgb(212, 234, 180);
+    border-radius: 20px;
+    width: 300px;
+    position: absolute;
+    top: 100px;
+    left: 70px;
+    right: 70px;
+    font-size: 20px;
+    box-shadow: 5px 5px rgb(193, 206, 175);;
+}
+.col{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.col input{
+    font-size: 15px;
+    color: black;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 200px;
+}
+.col button{
+    background-color:rgb(165, 224, 76);
+    border: 1px solid rgb(165, 224, 76);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
